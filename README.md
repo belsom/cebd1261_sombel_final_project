@@ -14,7 +14,7 @@ Clone the repository locally in your system:
 
 Deploy the code in your AWS account with Terraform
 
-`cd terraform-lab03`
+`cd cebd1261_sombel_final_project`
 
 
 `terraform init`
