@@ -10,7 +10,7 @@ Terraform manages the deployment.
 
 Clone the repository locally in your system:
 
-`git clone https://github.com/cloudacia/terraform-lab03`
+`git clone https://github.com/belsom/cebd1261_sombel_final_project`
 
 Deploy the code in your AWS account with Terraform
 
@@ -57,6 +57,6 @@ It is distributed under the MIT License. See LICENSE.txt for more information.
 
 **Contact**
 
-Name: Eugenio Duarte
+Name: Sombel Ndiaye
 
-Email: eduarte@cloudacia.com
+Email: sombel1@yahoo.com
